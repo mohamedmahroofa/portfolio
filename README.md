@@ -1,29 +1,27 @@
 # 🚀 Modern Full Stack Developer Portfolio
 
-Welcome to my personal portfolio! This project showcases my journey through the **Scrimba Full Stack Web Developer Path**, featuring modern design principles and clean, responsive code.
-
-![Portfolio Preview](https://via.placeholder.com/800x400?text=My+Portfolio+Preview) 
-*Note: [Replace this with a screenshot of your site once it's live!]*
+Welcome to my personal portfolio! This project is a milestone in my journey through the **Scrimba Full Stack Web Developer Path**, featuring modern design principles and clean, responsive code.
 
 ## 🔗 Live Demo
-Check out the live site here: **[INSERT YOUR GITHUB PAGES LINK HERE]**
+**View the live site here:** [https://sheedh-portfolio.netlify.app](https://sheedh-portfolio.netlify.app)
 
-## ✨ Features
-- **Glassmorphism Aesthetic:** Developed using modern CSS properties like `backdrop-filter` for a premium, frosted-glass look.
-- **Fully Responsive:** Optimized for mobile, tablet, and desktop viewing.
-- **Agentic AI Workflow:** Refined and polished using **Google Antigravity** AI to ensure high-quality styling and code structure.
-- **Clean Architecture:** Semantic HTML5 and modular CSS for easy maintenance.
+## ✨ Project Highlights
+- **Glassmorphism Aesthetic:** Developed using modern CSS3 properties like `backdrop-filter` for a premium, frosted-glass look.
+- **Agentic AI Workflow:** Refined and polished using **Google Antigravity** AI to ensure high-quality styling and modern code structure.
+- **Fully Responsive:** Optimized for a seamless experience across mobile, tablet, and desktop devices.
 
 ## 🛠️ Tech Stack
 - **HTML5:** Semantic structure for SEO and accessibility.
-- **CSS3:** Advanced layouts using Flexbox, Grid, and Glassmorphism effects.
+- **CSS3:** Advanced layouts using Flexbox, Grid, and Custom Properties (CSS Variables).
 - **Google Antigravity:** Used for design iteration and CSS optimization.
-- **GitHub Pages:** For hosting and deployment.
+- **Netlify:** For continuous deployment and hosting.
 
-## 📈 My Learning Journey
-This portfolio is a milestone in my **Scrimba Full Stack Path**. It represents my transition from learning the fundamentals of the "Box Model" to implementing sophisticated modern UI trends. 
+## 📈 The Journey
+This portfolio showcases my transition from learning the fundamentals of the "Box Model" to implementing sophisticated modern UI trends. It serves as the home for my projects as I progress through professional web development.
 
-**Current Focus:** Mastering **Essential JavaScript** and building dynamic web applications.
+---
+📫 **Connect with me:**
+- **LinkedIn:** [linkedin.com/in/ahmed-sheedh/](https://www.linkedin.com/in/ahmed-sheedh/)
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
