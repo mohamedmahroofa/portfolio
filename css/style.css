@@ -500,6 +500,10 @@ section {
     margin-bottom: 20px;
     animation: bounce 2s infinite;
     animation-delay: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 .skill-card:hover .skill-icon {
