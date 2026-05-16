@@ -460,11 +460,11 @@ section {
     cursor: pointer;
 }
 
-.skill-card-1 { animation-delay: 0.1s; }
-.skill-card-2 { animation-delay: 0.2s; }
-.skill-card-3 { animation-delay: 0.3s; }
-.skill-card-4 { animation-delay: 0.4s; }
-.skill-card-5 { animation-delay: 0.5s; }
+.skill-card-1 { animation-delay: 0.6s; }
+.skill-card-2 { animation-delay: 0.6s; }
+.skill-card-3 { animation-delay: 0.6s; }
+.skill-card-4 { animation-delay: 0.6s; }
+.skill-card-5 { animation-delay: 0.6s; }
 .skill-card-6 { animation-delay: 0.6s; }
 
 .skill-card::before {
@@ -496,14 +496,9 @@ section {
 }
 
 .skill-icon {
-    font-size: 3.5rem;
-    margin-bottom: 20px;
-    animation: bounce 2s infinite;
-    animation-delay: 0.5s;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
+    width: fit-content; 
+    margin: auto;
+    font-size: 4rem;
 }
 
 .skill-card:hover .skill-icon {
