@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This project is a milestone in my journey through the **Scrimba Full Stack Web Developer Path**, featuring modern design principles and clean, responsive code.
 
 ## 🔗 Live Demo
-**View the live site here:** [https://sheedh-portfolio.netlify.app](https://sheedh-portfolio.netlify.app)
+**View the live site here:** [My Portfolio](https://mohamedmahroofa.github.io/portfolio/)
 
 ## ✨ Project Highlights
 - **Glassmorphism Aesthetic:** Developed using modern CSS3 properties like `backdrop-filter` for a premium, frosted-glass look.
