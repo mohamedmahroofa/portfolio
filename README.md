@@ -23,7 +23,3 @@ This portfolio showcases my transition from learning the fundamentals of the "Bo
 📫 **Connect with me:**
 - **LinkedIn:** [linkedin.com/in/ahmed-sheedh/](https://www.linkedin.com/in/ahmed-sheedh/)
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mohamedmahroofa/portfolio.git
